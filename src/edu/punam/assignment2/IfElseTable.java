@@ -1,4 +1,4 @@
-package assignment2;
+package edu.punam.assignment2;
 
 import java.util.Scanner;
 
