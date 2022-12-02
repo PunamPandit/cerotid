@@ -1,6 +1,6 @@
-package edu.punam.practice.Assignment5;
+package edu.punam.Assignment5;
 
-public class StringA3 {
+public class Palindrome {
     public static void main(String[] args) {
         String name = "dad";
         StringBuilder str = new StringBuilder(name);

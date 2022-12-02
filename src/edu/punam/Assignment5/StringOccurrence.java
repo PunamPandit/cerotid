@@ -1,6 +1,4 @@
-package edu.punam.practice.Assignment5;
-
-import sun.plugin.dom.css.Counter;
+package edu.punam.Assignment5;
 
 public class StringOccurrence {
 
